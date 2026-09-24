@@ -1,5 +1,7 @@
 # 🎓 Student Performance Prediction System
+### 🌐 Live Demo
 
+[Launch EduPredict](https://student-performance-prediction-h59te3okdfxdcy84psk6en.streamlit.app/)
 > **Machine Learning Capstone Project**\
 > An interactive academic analytics system that predicts student
 > examination performance, compares students with the available dataset,
